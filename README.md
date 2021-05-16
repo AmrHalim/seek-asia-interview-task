@@ -1,4 +1,4 @@
-# seek-asia-interview-task
+# Interview Task for SEEK Asia
 * This repo contains 4 tasks.
 * The description of tasks 1, 2 and 4 are mentioned on the top of the index.js file.
 * Task 3 is an express.js server for creating and searching candidates based on their skills. More about the exposed endpoints mentioned [below](https://github.com/AmrHalim/seek-asia-interview-task#endpoints).
