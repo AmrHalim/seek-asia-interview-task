@@ -19,7 +19,7 @@ Request body:
 {
   id: "string",
   name: "string",
-  skils: ["array of skills"]
+  skills: ["array of skills"]
 }
 ```
 `id` is unique.
@@ -34,5 +34,5 @@ Response object:
 {
   id: "string",
   name: "string",
-  skils: ["array of skills"]
+  skills: ["array of skills"]
 }
